@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gitcomit8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Apps, UWP Apps, cybersecurity and Linux
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on small-scale projects
 - 📫 Contact me via mail ayaanmirza788@gmail.com OR DM me on IG @ayaanmirzabaig
 
 <!---
