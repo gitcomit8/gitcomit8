@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Android apps<br>Looking for coders and technical writers<br>Currently pursuing Bachelor's at SRMIST<br>I'm interested in blockchain, Linux, flutter, java, os dev, etc<br>Fun Fact: I'm also a gearhead
+I'm currently working on Low-Level Development and tinkering<br>Looking for coders and technical writers<br>Currently pursuing Bachelor's at SRMIST<br>I'm interested in blockchain, Linux, flutter, java, os dev, etc<br>Fun Fact: I'm also a gearhead
 
 
 ## 🌐 Socials:
